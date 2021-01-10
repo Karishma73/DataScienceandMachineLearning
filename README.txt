@@ -1,0 +1,1 @@
+This folder contains two .ipynb 1. DataScience notebook comprises of data visualisation and cleaning techniques and 2.MachineLearning notebook have coding related to different machine learning algorithms eg decision tree, regression, SVM, KNN, K-mean...All the used data are stored in data folder.
